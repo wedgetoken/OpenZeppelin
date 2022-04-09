@@ -1,7 +1,7 @@
 pragma solidity ^0.5.2;
 
 import "https://github.com/pkdcryptos/OpenZeppelin-openzeppelin-solidity/blob/master/contracts/token/ERC20/IERC20.sol";
-import "https://github.com/pkdcryptos/OpenZeppelin-openzeppelin-solidity/blob/master/contracts/math/SafeMath.sol";
+import "https://github.com/wedgetoken/OpenZeppelin/blob/main/SafeMath.sol";
 
 /**
  * @title Standard ERC20 token
